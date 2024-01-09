@@ -25,7 +25,7 @@ Run the following command on your CLI to run the application:
 
 ```npm start```
 
-Video demonstration:
+Video demonstration: https://drive.google.com/file/d/1aUdZgJsb1Rr7uvMrjwquWpHIIYvstmgV/view
 
 
 ## Packages
