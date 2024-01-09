@@ -36,5 +36,5 @@ Video demonstration: https://drive.google.com/file/d/1aUdZgJsb1Rr7uvMrjwquWpHIIY
 Created by Jandrei Timoteo with the help of Tutor Andrew Hardemon.
 ​
 ## Questions
-For additional questions and information, please visit my [GitHub profile](github.com/jdrei01/)
+For additional questions and information, please visit https://github.com/Jdrei01
 or reach out via email at jandreitim@gmail.com.
